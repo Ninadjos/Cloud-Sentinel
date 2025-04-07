@@ -1,0 +1,8 @@
+# requirements.txt
+boto3>=1.28.0
+python-dotenv
+slack_sdk
+jinja2
+pdfkit  # Requires wkhtmltopdf installed
+awscli
+policyuniverse  # For IAM policy analysis
