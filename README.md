@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+**Cloud Sentinel**
+AWS Cloud Security Monitoring and Hardening Toolkit
+    Cloud Sentinel is a modular, Python-based toolkit that helps organizations scan and secure their AWS cloud environment. It performs automated detection of common security misconfigurations and generates detailed reports for review or compliance purposes.
+>>>>>>> d60cb94eafb6eed9b8670feedf914d6366732fac
 
 # 🌩️ Cloud Sentinel
 
@@ -132,3 +138,8 @@ Have ideas, found a bug, or want to improve Cloud Sentinel?
 Open a PR or start a discussion!
 
 Let's make the cloud safer together. ☁️🔐
+Usage - 
+python iam_audit.py
+python s3_scan.py
+python ec2_check.py
+python report_generator.py
